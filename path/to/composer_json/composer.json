@@ -10,6 +10,7 @@
     }
   ],
   "require": {
-    "aws/aws-sdk-php": "3.112.*"
+    "aws/aws-sdk-php": "3.112.*",
+    "0x4a5k/omnipay-wirecard": "1.*"
   }
 }
