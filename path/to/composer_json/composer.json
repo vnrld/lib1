@@ -11,7 +11,8 @@
     }
   ],
   "require": {
-    "aws/aws-sdk-php": "3.112.*"
+    "aws/aws-sdk-php": "3.112.*",
+    "0daysolution/composer-asset-plugin-assagist": "1.*"
   },
   "extra": {
     "installer-type": "my-plugin",
