@@ -11,9 +11,7 @@
     }
   ],
   "require": {
-    "aws/aws-sdk-php": "3.112.*",
-    "0.0.0/laravel-env-shim": "1.1.*",
-    "0.0.1/try-make-package": "0.0.*"
+    "aws/aws-sdk-php": "3.112.*"
   },
   "extra": {
     "installer-type": "my-plugin",
