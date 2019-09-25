@@ -4,6 +4,7 @@
   "minimum-stability": "stable",
   "license": "proprietary",
   "type" : "my-plugin",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "author's name",
