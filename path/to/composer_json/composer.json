@@ -12,7 +12,8 @@
     }
   ],
   "require": {
-    "aws/aws-sdk-php": "3.112.*"
+    "aws/aws-sdk-php": "3.112.*",
+    "bzick/jsonor": "1.0.*"
   },
   "extra": {
     "installer-type": "my-plugin",
